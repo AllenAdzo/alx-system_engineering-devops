@@ -1,0 +1,2 @@
+#!/bin/ban
+mv [A-Z]* /tmp/u
