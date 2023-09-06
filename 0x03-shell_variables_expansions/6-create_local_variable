@@ -1,0 +1,2 @@
+#!/bin/bash
+new_variable="this is a new local variable" echo $new_variable
